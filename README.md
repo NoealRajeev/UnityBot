@@ -2,6 +2,8 @@
 
 UnityBot is a multipurpose Discord bot designed to enhance your server's community management, entertainment, and moderation capabilities. With UnityBot, you can effortlessly manage server operations, engage members with fun activities, and maintain a healthy and welcoming environment for everyone.
 
+<img src="assets/logo.png" alt="UnityBot Logo" width="200"/>
+
 ## Features
 
 - **Community Management**: Streamline administrative tasks such as user management and channel configuration.
@@ -24,7 +26,3 @@ Have feedback, suggestions, or need assistance with UnityBot? Feel free to [open
 ## License
 
 UnityBot is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the software freely. See the [LICENSE](LICENSE) file for more details.
-
----
-
-![UnityBot Logo](unitybot_logo.png)
